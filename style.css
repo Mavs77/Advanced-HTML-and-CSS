@@ -1,0 +1,22 @@
+/* Mobile */
+@media (max-width: 480px) { 
+  /* Styles for small screens */
+}
+
+/* Tablets and small devices */
+@media (max-width: 768px) {
+  /* Styles for tablets */
+}
+
+/* Laptops and desktops */
+@media (max-width: 1024px) {
+  /* Styles for larger screens */
+}
+
+/* Large desktops and ultrawide screens */
+@media (min-width: 1440px) {
+  /* Styles for large monitors */
+}
+
+
+  
